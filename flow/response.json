@@ -1,8 +1,7 @@
 {
     "DEFAULT":{
         "replyMessage":[
-            "*Esta respuesta es un respuesta default* cuando no se consigue una palabra clave \n",
-            "la puedes desactivar en tu archivo .env DEFAULT_MESSAGE=false \n",
+            "*Esta respuesta es un respuesta automática* cuando no se consigue una palabra clave \n",
             "tambien te quiero recordar que si presentas algun error pasarte por el repositorio \n",
             "https://github.com/leifermendez/bot-whatsapp#chatbot-whatsapp-opensource \n",
             "y recuerda tener la ultima versión del proyecto \n\n",
