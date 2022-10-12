@@ -145,7 +145,7 @@ client.on('ready', (a) => {
 });
 
 client.on('auth_failure', (e) => {
-        // console.log(e)
+        console.log("AUTHENTICATED FAILURE")
         // connectionLost()
 });
 
